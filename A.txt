@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Primer cambio ejercicio 1
 Segundo cambio ejercicio 1
 Cambio de A2
+=======
+1º cambio
+2º cambio
+>>>>>>> A8
